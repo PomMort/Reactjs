@@ -46,8 +46,11 @@
 }
 
 .button{
-    margin-left: 70%;
+    margin-left: 75%;
 }
 .navbar-toggler{
-    margin-left: 70%;
+    margin-left: 75%;
+}
+.navbar-dark{
+    background-color: #512da8;
 }
