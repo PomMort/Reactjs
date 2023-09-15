@@ -1,0 +1,53 @@
+.end{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(206, 180, 230);
+    width: 100%;
+}
+.middle{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+    display: flex;
+    
+}
+.middle1{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    margin-right: 20px;
+}
+.jumbotron{
+    display: flex;
+    background-color: rgb(206, 180, 230);
+    
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.col-auto{
+    margin-top: 15px;
+}
+.text{
+    text-align: justify;
+}
+.align-content-center{
+    width: 100%;
+}
+.container-fluid{
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.button{
+    margin-left: 70%;
+}
+.navbar-toggler{
+    margin-left: 70%;
+}
