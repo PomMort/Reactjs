@@ -38,19 +38,35 @@
 .align-content-center{
     width: 100%;
 }
-.container-fluid{
-    margin-right: 0px;
-    margin-left: 0px;
-    margin-right: auto;
-    margin-left: auto;
-}
+
 
 .button{
-    margin-left: 75%;
+    margin-left: 70%;
 }
-.navbar-toggler{
-    margin-left: 75%;
-}
+
 .navbar-dark{
     background-color: #512da8;
+}
+.jumbotron{
+    margin-top: 90px;
+}
+
+.breadcrumb{
+    background-color: rgb(79, 28, 217);
+}
+.nav-itemactive{
+    
+    
+    margin-right: 0.5rem;
+    
+    
+}
+.icon{
+    margin-right: 10px;
+}
+.navbar-dark{
+    color: black;
+}
+.navbar-toggler{
+    margin-left: 72%;
 }
